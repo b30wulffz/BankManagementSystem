@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="017ed498-426a-4653-ba7e-67aa57ecd563" name="Default Changelist" comment="" />
+    <list default="true" id="017ed498-426a-4653-ba7e-67aa57ecd563" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BMS/BMS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BMS/BMS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BMS/Bank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BMS/Bank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BMS/BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BMS/BankAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BMS/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BMS/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BMS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BMS.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +23,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1PJuzDM2vc2TXF9EOPLEMOhYaaV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -64,10 +77,28 @@
       <workItem from="1565630417824" duration="770000" />
       <workItem from="1565636563385" duration="184000" />
       <workItem from="1565848789963" duration="4123000" />
+      <workItem from="1565852960457" duration="958000" />
+      <workItem from="1565863277222" duration="483000" />
+      <workItem from="1565924602668" duration="61000" />
+      <workItem from="1565964058777" duration="5980000" />
+      <workItem from="1565972482917" duration="3689000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
