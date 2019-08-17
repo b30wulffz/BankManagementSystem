@@ -1,6 +1,4 @@
 import java.util.Scanner;
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Map;
 import java.util.HashMap;
 
@@ -32,7 +30,7 @@ class Bank {
             System.out.println("Customer Not Found!");
         }
         else {
-            System.out.println("Are you sure: ");
+            System.out.println("Are you sure: (Enter true/false)");
             boolean confirm = inp.nextBoolean();
             if(confirm){
                 customerDB.remove(accNum);
@@ -363,7 +361,7 @@ public class BMS {
                         switch (userOpt) {
                             case 1: {
                                 Customer newCust = new Customer();
-                                System.out.println("Proceed to add data to bank?");
+                                System.out.println("Proceed to add data to bank? (Enter true/false)");
                                 boolean proceed;
                                 proceed = inp.nextBoolean();
                                 if (proceed) {
